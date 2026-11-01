@@ -69,3 +69,10 @@ src/app/
 #### Favoris
 
 ![?v?nements et favoris](docs/captures/favoris.png)
+
+#### Formulaire avec une description trop longue et ses erreurs de validation
+
+![Formulaire invalide avec une description longue](docs/captures/formulaire-invalide.png)
+
+
+Le formulaire affiche sous le champ Description les valeurs saisies au format JSON et le statut de validation (`VALID` ou `INVALID`), mis ? jour en direct.
